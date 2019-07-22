@@ -20,8 +20,11 @@ function johnLennonFacts(facts){
   
 function iLoveTheBeatles(num){
   let i = 0
-  
-  
+  do {
+    return 'I love the Beatles!'
+    i++
+  }
+  while(i <= num)
 }
     it("returns an array of 'I love the Beatles!' 8 times when passed the parameter 7 ", function() {
       expect(iLoveTheBeatles(7)).toEqual(["I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!", "I love the Beatles!"]);
