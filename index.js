@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments){
   
   
 function johnLennonFacts(facts){
-  
+  while()
   
 }
     it("returns an array of strings with exclamation points", function() {
