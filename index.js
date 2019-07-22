@@ -1,4 +1,5 @@
 function theBeatlesPLay(musicians, instruments){
-  let 
+  let resultArray = []
+  for(i = 0; i < musicians.length; )
   
 }
