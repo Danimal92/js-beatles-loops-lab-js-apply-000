@@ -22,7 +22,7 @@ function iLoveTheBeatles(num){
   let result = []
   let i = num 
   do {
-    return 'I love the Beatles!'
+    result.push()
     i++
   }
   while(i < 15 && i <= num);
